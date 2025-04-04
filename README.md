@@ -10,6 +10,9 @@ Model Training: Uses a CNN-based model to classify waste images.
 Evaluation: Analyzes model accuracy and performance on test data.
 
 Key Features:
+
 ✔ Waste classification using deep learning.
+
 ✔ Implementation in Jupyter Notebook (no separate application or interface).
+
 ✔ Potential for further development into a full API or web-based system.
